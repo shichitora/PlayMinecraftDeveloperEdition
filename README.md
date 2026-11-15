@@ -1,0 +1,2 @@
+# PlayMinecraftDeveloperEdition
+Minecraft Developer Editionの入れ方（法的訴訟の危険性は否めない）
